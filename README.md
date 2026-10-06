@@ -1,6 +1,6 @@
 # Marrow
 
-A mobile app for saving videos in a form you can follow. Share a TikTok, Instagram or YouTube Shorts link and get back a card, such as a recipe with a grocery list, a workout or a travel plan, linked to the original video.
+A mobile app that turns useful videos into something you can follow. Share a TikTok, Instagram or YouTube Shorts link and get back a card with the recipe and grocery list, the workout or the travel plan, linked to the original video.
 
 Coming soon on iOS.
 
